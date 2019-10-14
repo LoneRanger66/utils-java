@@ -1,0 +1,15 @@
+.settings
+.classpath
+.project
+.springBeans
+target
+bin
+build
+dist
+out
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
